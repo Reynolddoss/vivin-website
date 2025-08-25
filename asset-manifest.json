@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vivin-website/static/css/main.45e7a52c.css",
-    "main.js": "/vivin-website/static/js/main.a31706a7.js",
-    "index.html": "/vivin-website/index.html",
-    "main.45e7a52c.css.map": "/vivin-website/static/css/main.45e7a52c.css.map",
-    "main.a31706a7.js.map": "/vivin-website/static/js/main.a31706a7.js.map"
+    "main.css": "/static/css/main.45e7a52c.css",
+    "main.js": "/static/js/main.a31706a7.js",
+    "index.html": "/index.html",
+    "main.45e7a52c.css.map": "/static/css/main.45e7a52c.css.map",
+    "main.a31706a7.js.map": "/static/js/main.a31706a7.js.map"
   },
   "entrypoints": [
     "static/css/main.45e7a52c.css",
