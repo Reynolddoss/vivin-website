@@ -117,9 +117,22 @@ export const pageData: PageData = {
     },
     testimonials: [
       {
-        quote: '"Vivin Constructions exceeded all our expectations. Their attention to detail, professionalism, and commitment to our vision was evident throughout the entire process. We couldn\'t be happier with our beautiful new home."',
-        author: 'The Johnson Family'
+        quote: '"Choosing Vivin Constructions was the best decision we made for our project. The team was professional, transparent, and truly committed to quality. From the very first conversation to the final handover, everything was handled with care and attention to detail. They didn’t just build a structure — they built our trust."',
+        author: 'Ramesh K, Hubballi'
+      },
+      {
+        quote: '"From approvals to the final finish, everything was smooth and stress-free. The team worked with honesty, and that gave us confidence throughout the process."',
+        author: 'Priya & Anil'
+      },
+      {
+        quote: '"Vivin Constructions turned our dream into reality — on time, on budget, and beyond expectations!"',
+        author: 'The Franklins family'
+      },
+      {
+        quote: '"hey delivered our commercial space ahead of schedule without compromising on quality. A true partner we can rely on."',
+        author: 'Anannd Enterprises'
       }
+      
     ]
   },
 
@@ -394,26 +407,26 @@ export const pageData: PageData = {
         location: 'Hubballi, Karnataka',
         address: '#39 Pride Icon Hubballi Karnataka',
         positions: [
-          {
-            title: 'Senior Project Manager',
-            type: 'Full-time',
-            experience: '8-12 years',
-            requirements: [
-              'Bachelor\'s degree in Civil Engineering or Construction Management',
-              'Proven experience in managing large-scale construction projects',
-              'Strong leadership and team management skills',
-              'Excellent communication and negotiation abilities',
-              'Knowledge of construction software and project management tools',
-              'Safety certification and compliance knowledge'
-            ],
-            responsibilities: [
-              'Oversee project planning, execution, and completion',
-              'Manage project budgets and timelines',
-              'Coordinate with architects, engineers, and contractors',
-              'Ensure quality standards and safety compliance',
-              'Lead project teams and mentor junior staff'
-            ]
-          },
+          // {
+          //   title: 'Senior Project Manager',
+          //   type: 'Full-time',
+          //   experience: '8-12 years',
+          //   requirements: [
+          //     'Bachelor\'s degree in Civil Engineering or Construction Management',
+          //     'Proven experience in managing large-scale construction projects',
+          //     'Strong leadership and team management skills',
+          //     'Excellent communication and negotiation abilities',
+          //     'Knowledge of construction software and project management tools',
+          //     'Safety certification and compliance knowledge'
+          //   ],
+          //   responsibilities: [
+          //     'Oversee project planning, execution, and completion',
+          //     'Manage project budgets and timelines',
+          //     'Coordinate with architects, engineers, and contractors',
+          //     'Ensure quality standards and safety compliance',
+          //     'Lead project teams and mentor junior staff'
+          //   ]
+          // },
           {
             title: 'Site Engineer',
             type: 'Full-time',
@@ -440,7 +453,7 @@ export const pageData: PageData = {
             experience: '2-5 years',
             requirements: [
               'Diploma or degree in Safety Management or related field',
-              'Certification in workplace safety (OSHA, NEBOSH, or equivalent)',
+              'Certification in workplace safety',
               'Experience in construction safety management',
               'Knowledge of safety regulations and best practices',
               'Strong attention to detail and communication skills',
@@ -456,100 +469,100 @@ export const pageData: PageData = {
           }
         ]
       },
-      {
-        name: 'Bangalore Branch',
-        location: 'Bangalore, Karnataka',
-        address: 'Electronic City Phase 1, Bangalore',
-        positions: [
-          {
-            title: 'Architectural Designer',
-            type: 'Full-time',
-            experience: '4-8 years',
-            requirements: [
-              'Bachelor\'s degree in Architecture',
-              'Proficiency in AutoCAD, Revit, and 3D modeling software',
-              'Experience in residential and commercial design',
-              'Knowledge of building codes and zoning regulations',
-              'Strong creative and technical skills',
-              'Portfolio demonstrating design excellence'
-            ],
-            responsibilities: [
-              'Create architectural designs and drawings',
-              'Collaborate with clients and project teams',
-              'Prepare construction documents and specifications',
-              'Coordinate with engineers and contractors',
-              'Ensure design compliance with regulations'
-            ]
-          },
-          {
-            title: 'Quantity Surveyor',
-            type: 'Full-time',
-            experience: '3-7 years',
-            requirements: [
-              'Bachelor\'s degree in Quantity Surveying or Civil Engineering',
-              'Experience in cost estimation and project budgeting',
-              'Knowledge of construction materials and methods',
-              'Proficiency in cost estimation software',
-              'Strong analytical and mathematical skills',
-              'Attention to detail and accuracy'
-            ],
-            responsibilities: [
-              'Prepare cost estimates and budgets',
-              'Analyze project costs and variations',
-              'Prepare bills of quantities and tender documents',
-              'Monitor project costs and provide cost reports',
-              'Negotiate with suppliers and contractors'
-            ]
-          }
-        ]
-      },
-      {
-        name: 'Mysore Branch',
-        location: 'Mysore, Karnataka',
-        address: 'Vijayanagar Industrial Area, Mysore',
-        positions: [
-          {
-            title: 'Construction Supervisor',
-            type: 'Full-time',
-            experience: '5-8 years',
-            requirements: [
-              'Diploma or degree in Civil Engineering',
-              'Experience in supervising construction projects',
-              'Knowledge of construction methods and materials',
-              'Strong leadership and communication skills',
-              'Ability to read and interpret blueprints',
-              'Experience with quality control procedures'
-            ],
-            responsibilities: [
-              'Supervise daily construction activities',
-              'Ensure work quality and safety standards',
-              'Coordinate with workers and subcontractors',
-              'Monitor project progress and timelines',
-              'Report to project managers and engineers'
-            ]
-          },
-          {
-            title: 'Equipment Operator',
-            type: 'Full-time',
-            experience: '2-5 years',
-            requirements: [
-              'Valid heavy equipment operator license',
-              'Experience operating excavators, bulldozers, and cranes',
-              'Knowledge of equipment maintenance and safety',
-              'Physical fitness and ability to work outdoors',
-              'Attention to safety protocols',
-              'Flexible working hours'
-            ],
-            responsibilities: [
-              'Operate heavy construction equipment safely',
-              'Perform routine equipment maintenance',
-              'Follow safety protocols and procedures',
-              'Coordinate with ground crew and supervisors',
-              'Maintain equipment logs and reports'
-            ]
-          }
-        ]
-      }
+      // {
+      //   name: 'Bangalore Branch',
+      //   location: 'Bangalore, Karnataka',
+      //   address: 'Electronic City Phase 1, Bangalore',
+      //   positions: [
+      //     {
+      //       title: 'Architectural Designer',
+      //       type: 'Full-time',
+      //       experience: '4-8 years',
+      //       requirements: [
+      //         'Bachelor\'s degree in Architecture',
+      //         'Proficiency in AutoCAD, Revit, and 3D modeling software',
+      //         'Experience in residential and commercial design',
+      //         'Knowledge of building codes and zoning regulations',
+      //         'Strong creative and technical skills',
+      //         'Portfolio demonstrating design excellence'
+      //       ],
+      //       responsibilities: [
+      //         'Create architectural designs and drawings',
+      //         'Collaborate with clients and project teams',
+      //         'Prepare construction documents and specifications',
+      //         'Coordinate with engineers and contractors',
+      //         'Ensure design compliance with regulations'
+      //       ]
+      //     },
+      //     {
+      //       title: 'Quantity Surveyor',
+      //       type: 'Full-time',
+      //       experience: '3-7 years',
+      //       requirements: [
+      //         'Bachelor\'s degree in Quantity Surveying or Civil Engineering',
+      //         'Experience in cost estimation and project budgeting',
+      //         'Knowledge of construction materials and methods',
+      //         'Proficiency in cost estimation software',
+      //         'Strong analytical and mathematical skills',
+      //         'Attention to detail and accuracy'
+      //       ],
+      //       responsibilities: [
+      //         'Prepare cost estimates and budgets',
+      //         'Analyze project costs and variations',
+      //         'Prepare bills of quantities and tender documents',
+      //         'Monitor project costs and provide cost reports',
+      //         'Negotiate with suppliers and contractors'
+      //       ]
+      //     }
+      //   ]
+      // },
+      // {
+      //   name: 'Mysore Branch',
+      //   location: 'Mysore, Karnataka',
+      //   address: 'Vijayanagar Industrial Area, Mysore',
+      //   positions: [
+      //     {
+      //       title: 'Construction Supervisor',
+      //       type: 'Full-time',
+      //       experience: '5-8 years',
+      //       requirements: [
+      //         'Diploma or degree in Civil Engineering',
+      //         'Experience in supervising construction projects',
+      //         'Knowledge of construction methods and materials',
+      //         'Strong leadership and communication skills',
+      //         'Ability to read and interpret blueprints',
+      //         'Experience with quality control procedures'
+      //       ],
+      //       responsibilities: [
+      //         'Supervise daily construction activities',
+      //         'Ensure work quality and safety standards',
+      //         'Coordinate with workers and subcontractors',
+      //         'Monitor project progress and timelines',
+      //         'Report to project managers and engineers'
+      //       ]
+      //     },
+      //     {
+      //       title: 'Equipment Operator',
+      //       type: 'Full-time',
+      //       experience: '2-5 years',
+      //       requirements: [
+      //         'Valid heavy equipment operator license',
+      //         'Experience operating excavators, bulldozers, and cranes',
+      //         'Knowledge of equipment maintenance and safety',
+      //         'Physical fitness and ability to work outdoors',
+      //         'Attention to safety protocols',
+      //         'Flexible working hours'
+      //       ],
+      //       responsibilities: [
+      //         'Operate heavy construction equipment safely',
+      //         'Perform routine equipment maintenance',
+      //         'Follow safety protocols and procedures',
+      //         'Coordinate with ground crew and supervisors',
+      //         'Maintain equipment logs and reports'
+      //       ]
+      //     }
+      //   ]
+      // }
     ],
     application: {
       title: 'How to Apply',
