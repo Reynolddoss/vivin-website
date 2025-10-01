@@ -1,3 +1,51 @@
-# https://www.robotstxt.org/robotstxt.html
+# Robots.txt for Vivin Constructions
+# This file tells search engines how to crawl and index the website
+
 User-agent: *
-Disallow:
+Allow: /
+
+# Sitemap location
+Sitemap: https://vivinconstructions.com/sitemap.xml
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Block access to admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /backup/
+
+# Block access to development files
+Disallow: /*.json$
+Disallow: /*.log$
+Disallow: /src/
+Disallow: /node_modules/
+
+# Allow access to important files
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Allow: /fonts/
+
+# Crawl delay (optional - helps prevent server overload)
+Crawl-delay: 1
+
+# Host directive (helps with canonical URLs)
+Host: https://vivinconstructions.com
