@@ -20,10 +20,9 @@ export const companyConfig: CompanyConfig = {
   
   // Social media links
   social: {
-    facebook: '#',
-    twitter: '#',
-    instagram: '#',
-    linkedin: '#'
+    facebook: 'https://facebook.com/vivinconstructions',
+    youtube: 'https://youtube.com/@vivinconstructions',
+    instagram: 'https://instagram.com/vivinconstructions'
   },
   
   // Navigation menu items

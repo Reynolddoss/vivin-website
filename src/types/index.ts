@@ -15,9 +15,9 @@ export interface CompanyConfig {
   };
   social: {
     facebook: string;
-    twitter: string;
+    youtube: string;
     instagram: string;
-    linkedin: string;
+    // linkedin: string;
   };
   navigation: {
     navItems: NavigationItem[];

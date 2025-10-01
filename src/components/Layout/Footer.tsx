@@ -35,11 +35,11 @@ const Footer: React.FC = () => {
           <div className="col-lg-2 col-md-6">
             <h5 className="text-white mb-3">Quick Links</h5>
             <ul className="list-unstyled">
-              <li><Link to="/" className="text-white-50 text-decoration-none">Home</Link></li>
-              <li><Link to="/#about" className="text-white-50 text-decoration-none">About Us</Link></li>
-              <li><Link to="/#services" className="text-white-50 text-decoration-none">Services</Link></li>
-              <li><Link to="/#projects" className="text-white-50 text-decoration-none">Projects</Link></li>
-              <li><Link to="/team" className="text-white-50 text-decoration-none">Our Team</Link></li>
+              {/* <li><Link to="/" className="text-white-50 text-decoration-none">Home</Link></li> */}
+              {/* <li><Link to="/#about" className="text-white-50 text-decoration-none">About Us</Link></li> */}
+              {/* <li><Link to="/#services" className="text-white-50 text-decoration-none">About Us</Link></li> */}
+              {/* <li><Link to="/#projects" className="text-white-50 text-decoration-none">Projects</Link></li> */}
+              {/* <li><Link to="/team" className="text-white-50 text-decoration-none">Our Team</Link></li> */}
               <li><Link to="/careers" className="text-white-50 text-decoration-none">Careers</Link></li>
               <li><Link to="/contact" className="text-white-50 text-decoration-none">Contact</Link></li>
             </ul>
@@ -68,17 +68,17 @@ const Footer: React.FC = () => {
           <div className="col-lg-3 col-md-6">
             <h5 className="text-white mb-3">Follow Us</h5>
             <div className="social-links">
-              <a href={companyConfig.social.facebook} className="text-white-50 me-3">
+              <a href={companyConfig.social.facebook} target='_blank' rel="noopener noreferrer" className="text-white-50 me-3">
                 <i className="fab fa-facebook-f"></i>
               </a>
-              <a href={companyConfig.social.twitter} className="text-white-50 me-3">
+              {/* <a href={companyConfig.social.twitter} className="text-white-50 me-3">
                 <i className="fab fa-twitter"></i>
-              </a>
-              <a href={companyConfig.social.instagram} className="text-white-50 me-3">
+              </a> */}
+              <a href={companyConfig.social.instagram} target='_blank' rel="noopener noreferrer" className="text-white-50 me-3">
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href={companyConfig.social.linkedin} className="text-white-50">
-                <i className="fab fa-linkedin-in"></i>
+              <a href={companyConfig.social.youtube} target='_blank' rel="noopener noreferrer" className="text-white-50">
+                <i className="fab fa-youtube"></i>
               </a>
             </div>
           </div>
