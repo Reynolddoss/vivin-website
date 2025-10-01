@@ -104,7 +104,7 @@ const JobOpenings: React.FC<JobOpeningsProps> = ({ branches }) => {
                                 </div>
                                 <div className="col-md-4 text-md-end">
                                   <a 
-                                    href={`mailto:contact@vi-vinconstruction.com?subject=Application for ${position.title} - ${branch.name}`} 
+                                    href={`mailto:contact@vivinconstructions.com?subject=Application for ${position.title} - ${branch.name}`} 
                                     className="btn btn-warning"
                                   >
                                     <i className="fas fa-paper-plane me-2"></i>Apply Now

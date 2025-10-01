@@ -8,11 +8,11 @@ import { PageData } from '../types';
 export const pageData: PageData = {
   // Home page data
   home: {
-    title: 'Vivin Constructions - You Dream It, We Build It',
+    title: 'Vivin Constructions - Visionary Ideas, Valuable Innovations',
     hero: {
       title: 'VIVIN',
       subtitle: 'CONSTRUCTIONS',
-      tagline: 'You Dream it, We Build it.',
+      tagline: 'Visionary Ideas, Valuable Innovations',
       ctaText: 'Get a Free Quote',
       ctaLink: '/contact'
     },
@@ -143,12 +143,12 @@ export const pageData: PageData = {
           country: 'India'
         },
         phone: {
-          main: '+91 9742356356',
+          main: '+91 9449836556',
           support: '+91 7353476950'
         },
         email: {
-          info: 'info@vi-vinconstruction.com',
-          contact: 'contact@vi-vinconstruction.com'
+          info: 'info@vivinconstructions.com',
+          contact: 'contact@vivinconstructions.com'
         },
         hours: {
           weekdays: 'Mon-Fri: 8:00 AM - 6:00 PM',
@@ -165,7 +165,7 @@ export const pageData: PageData = {
           badge: 'Branch Office',
           icon: 'fas fa-map-pin',
           phone: ['+91 9148205337', '+91 8660057176'],
-          email: 'bengaluru@vi-vinconstruction.com',
+          email: 'bengaluru@vivinconstructions.com',
           callUrl: 'tel:+9139148205337'
         },
         {
@@ -173,23 +173,23 @@ export const pageData: PageData = {
           badge: 'Branch Office',
           icon: 'fas fa-map-pin',
           phone: ['+91 9036067072'],
-          email: 'bellary@vi-vinconstruction.com',
+          email: 'bellary@vivinconstructions.com',
           callUrl: 'tel:+919036067072'
         },
         {
           name: 'Hubbali Branch',
           badge: 'Branch Office',
           icon: 'fas fa-map-pin',
-          phone: ['+91 9742356356', '+91 7353476950'],
-          email: 'hubbali@vi-vinconstruction.com',
-          callUrl: 'tel:+919742356356'
+          phone: ['+91 9449836556', '+91 7353476950'],
+          email: 'hubbali@vivinconstructions.com',
+          callUrl: 'tel:+919449836556'
         },
         {
           name: 'Shivamogga Branch',
           badge: 'Branch Office',
           icon: 'fas fa-map-pin',
           phone: ['+91 8089640656'],
-          email: 'shivamogga@vi-vinconstruction.com',
+          email: 'shivamogga@vivinconstructions.com',
           callUrl: 'tel:+918089640656'
         },
         {
@@ -197,7 +197,7 @@ export const pageData: PageData = {
           badge: 'Branch Office',
           icon: 'fas fa-map-pin',
           phone: ['+91 9952083161'],
-          email: 'kerala@vi-vinconstruction.com',
+          email: 'kerala@vivinconstructions.com',
           callUrl: 'tel:+919952083161'
         },
         {
@@ -205,7 +205,7 @@ export const pageData: PageData = {
           badge: 'Branch Office',
           icon: 'fas fa-map-pin',
           status: 'Opening Soon',
-          email: 'contact@vi-vinconstruction.com',
+          email: 'contact@vivinconstructions.com',
           openingSoon: true
         }
       ]
@@ -577,8 +577,8 @@ export const pageData: PageData = {
         }
       ],
       contact: {
-        email: 'careers@vi-vinconstruction.com',
-        phone: '+91 9742356356',
+        email: 'careers@vivinconstructions.com',
+        phone: '+91 9449836556',
         address: 'HR Department, #39 Pride Icon Hubballi Karnataka'
       }
     }
