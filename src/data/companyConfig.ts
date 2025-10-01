@@ -32,8 +32,8 @@ export const companyConfig: CompanyConfig = {
       { href: '/', text: 'Home' },
       { href: '/#services', text: 'About Us' },
       { href: '/#process', text: 'Process' },
-      { href: '/blogs', text: 'Blogs' },
-      { href: '/team', text: 'Team' },
+      // { href: '/blogs', text: 'Blogs' },
+      // { href: '/team', text: 'Team' },
       { href: '/careers', text: 'Careers' }
     ],
     contactButton: { href: '/contact', text: 'Contact Us' }
