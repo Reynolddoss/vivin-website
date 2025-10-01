@@ -38,12 +38,13 @@
 
   <!-- Services Pages -->
   <url>
-    <loc>https://vivinconstructions.com/services</loc>
+    <loc>https://vivinconstructions.com/#services</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
+  <!-- Individual service pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/services/residential-construction</loc>
     <lastmod>2025-01-27</lastmod>
@@ -71,8 +72,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  -->
 
-  <!-- Why Choose Us Pages -->
+  <!-- Why Choose Us Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/why-choose-us</loc>
     <lastmod>2025-01-27</lastmod>
@@ -107,6 +109,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  -->
 
   <!-- Blog Pages - commented out for future addition
   <url>
@@ -117,7 +120,7 @@
   </url>
   -->
 
-  <!-- Location-based Pages for Local SEO -->
+  <!-- Location-based Pages for Local SEO - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/construction-hubballi</loc>
     <lastmod>2025-01-27</lastmod>
@@ -159,8 +162,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  -->
 
-  <!-- Service-specific Location Pages -->
+  <!-- Service-specific Location Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/residential-construction-hubballi</loc>
     <lastmod>2025-01-27</lastmod>
@@ -188,8 +192,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  -->
 
-  <!-- Technology Pages -->
+  <!-- Technology Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/ai-construction-planning</loc>
     <lastmod>2025-01-27</lastmod>
@@ -210,8 +215,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  -->
 
-  <!-- Process Pages -->
+  <!-- Process Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/construction-process</loc>
     <lastmod>2025-01-27</lastmod>
@@ -246,8 +252,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  -->
 
-  <!-- About Pages -->
+  <!-- About Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/about-vivin-constructions</loc>
     <lastmod>2025-01-27</lastmod>
@@ -275,8 +282,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  -->
 
-  <!-- Portfolio/Projects Pages -->
+  <!-- Portfolio/Projects Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/portfolio</loc>
     <lastmod>2025-01-27</lastmod>
@@ -297,8 +305,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  -->
 
-  <!-- Testimonials -->
+  <!-- Testimonials - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/testimonials</loc>
     <lastmod>2025-01-27</lastmod>
@@ -312,8 +321,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  -->
 
-  <!-- Contact Information Pages -->
+  <!-- Contact Information Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/contact-hubballi</loc>
     <lastmod>2025-01-27</lastmod>
@@ -348,8 +358,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  -->
 
-  <!-- Career-specific Pages -->
+  <!-- Career-specific Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/careers-hubballi</loc>
     <lastmod>2025-01-27</lastmod>
@@ -363,8 +374,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+  -->
 
-  <!-- Legal Pages -->
+  <!-- Legal Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/privacy-policy</loc>
     <lastmod>2025-01-27</lastmod>
@@ -385,16 +397,18 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+  -->
 
-  <!-- FAQ Page -->
+  <!-- FAQ Page - commented out as it doesn't exist yet
   <url>
     <loc>https://vivinconstructions.com/faq</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  -->
 
-  <!-- Resources Pages -->
+  <!-- Resources Pages - commented out as they don't exist yet
   <url>
     <loc>https://vivinconstructions.com/construction-guide</loc>
     <lastmod>2025-01-27</lastmod>
@@ -415,5 +429,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  -->
 
 </urlset>
